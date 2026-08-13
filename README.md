@@ -280,7 +280,7 @@ Database version control system
 * [Rumba RDBM](https://www.dbinvent.com/) Database migration tool, plain-SQL, and declarative definition supported.
 * [dbdeploy](http://dbdeploy.com) dbdeploy is a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their database – in a simple, controlled, flexible and frequent manner   
 * [dbmaestro](http://www.dbmaestro.com/)  Controlled Database Continuous Delivery is Our Business  
-* [bytebase](https://www.bytebase.com) database CI/CD with schema migration, SQL review, and change approval workflows  
+* [bytebase](https://www.bytebase.com) database CI/CD with a GitOps workflow, versioned or declarative migrations, SQL review, and a full API  
 
 ## Useful Sites
 Other useful pages  
